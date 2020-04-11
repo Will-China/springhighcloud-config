@@ -1,2 +1,2 @@
-server:
-  port: 8099
+config:
+  info: "master branch,spring-cloud-cofig/config-test.yml version=1.0"
